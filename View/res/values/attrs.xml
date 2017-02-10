@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <declare-styleable name="CircleImageView">
+        <attr name="border_width" format="dimension" />
+        <attr name="border_color" format="color" />
+        <attr name="hasLineBorder" format="boolean"/>
+        <attr name="lineBorderColor" format="color"/>
+        <attr name="lineBorderWidth" format="dimension"/>
+    </declare-styleable>
+</resources>
